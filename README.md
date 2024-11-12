@@ -1,2 +1,1 @@
-# Tetris_in_C++
-Build the classic game Tetris with C++ and raylib
+# C++와 Raylib로 만든 테트리스
